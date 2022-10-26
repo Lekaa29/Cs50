@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: By elimination, it was also very fast in sorted option which
+is expected if there was nothing to switch up.
+
+sort2 uses: merge sort
+
+How do you know?: It was the fastest by far using random50000 option.
+
+sort3 uses: selection sort
+
+How do you know?: In all cases it had almost the same speed.

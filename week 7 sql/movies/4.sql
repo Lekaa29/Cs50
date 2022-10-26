@@ -1,0 +1,1 @@
+SELECT COUNT(title)+1 from MOVIES WHERE id = (SELECT movie_id from RATINGS WHERE rating > 9.9);
